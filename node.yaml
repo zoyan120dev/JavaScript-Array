@@ -1,0 +1,12 @@
+sort() diye Number bah Array ghusiye dei !
+ Array.from(numbers)  Arrray copy kore !
+ .reverse() reverse kore diye
+
+ const numbers = [12, 98, 5, 41, 23, 78, 46];
+for(let num of numbers){
+    if(num % 2 == 0){
+        console.log(num)
+    }
+}
+
+eybhabe even songkha add korte hoi !
